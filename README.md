@@ -1,7 +1,6 @@
-
 # Ejercicio Final Integrador: Gestión Jerárquica de Datos
 
-**Materia:** Programación 
+**Materia:** Programación
 
 **Tema:** Persistencia jerárquica y manejo de archivos CSV en Python
 
@@ -111,6 +110,14 @@ Al iniciar el programa, se  **vuelven a leer todos los CSV** , manteniendo la in
 Este modelo simula un **sistema de almacenamiento descentralizado** donde las facultades son unidades autónomas de datos, y el programa principal actúa como un  **agregador jerárquico** .
 
 ---
+
+## VIDEO TUTORIAL
+
+https://drive.google.com/file/d/1TQeFBWKffWHm6AWX2yYUSV-RW8Pm5o65/view?usp=sharing
+
+---
+
+
 
 ## Autores
 
